@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Pagina Materia POE
 
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
